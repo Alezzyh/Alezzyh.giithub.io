@@ -1,8 +1,3 @@
-/* 這是我 YueAgar_c 對閣下的最後一次警告，你有本事就自己寫，不要偷我的，你有原碼檔還寫得比我差的話，這是你的問題，與我何幹?
-   This's the last warning to you from me, YueAgar_c. If you're a pro coder, edit the extension yourself instead of using my code.
-   You've the unencrypted javascript file and you still write worse than me, that's your problem, not mine.
-*/
-
 function _classCallCheck(e, t) {
     if (!(e instanceof t))
         throw new TypeError("Cannot call a class as a function")
